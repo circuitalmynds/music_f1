@@ -1,6 +1,7 @@
 {
-    "available_space": true,
-    "files": [
+    "available_space": false,
+    "total_size": 1030.4966000000002,
+    "videos": [
         "Dick Dale - Let's Go Trippin'-W1gskj1VQR0.mp4",
         "sad songs for sad people-Jllu94-8PxI.mp4",
         "Extremoduro - So Payaso - Bely Basarte versión acústica-iumBobiS3ew.mp4",
@@ -89,7 +90,5 @@
         "FOALS - Exits [Official Music Video]-V6YMCjpfH0c.mp4",
         "Ghouls Night Out-fLqKMQ-1H14.mp4",
         "Pappo´s Blues - Pequeña Ala.wmv-qlExfXKWShE.mp4"
-    ],
-    "id": "f1",
-    "total_size": 982.7581289062498
+    ]
 }
