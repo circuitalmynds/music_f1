@@ -1,5 +1,5 @@
 {
-    "available_space": false,
+    "available_space": true,
     "content": [
         {
             "id": "1D2MfjSRCpA",
@@ -42,13 +42,6 @@
             "path": "/home/alanmatzumiya/Videos/container/f1/videos/Art Blakey and the Jazz Messengers - Ecaroh-b4AugBKYZ3s.mp4",
             "size": 10.798903,
             "url": "https://github.com/circuitalmynds/music_f1/blob/main/videos/Art Blakey and the Jazz Messengers - Ecaroh-b4AugBKYZ3s.mp4?raw=true"
-        },
-        {
-            "id": "jtPA1fi1vxA",
-            "name": "Los Cadetes de Linares - Dos Coronas a Mi Madre (En Vivo Desde Houston, Tx)-jtPA1fi1vxA.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/f1/videos/Los Cadetes de Linares - Dos Coronas a Mi Madre (En Vivo Desde Houston, Tx)-jtPA1fi1vxA.mp4",
-            "size": 11.473006999999999,
-            "url": "https://github.com/circuitalmynds/music_f1/blob/main/videos/Los Cadetes de Linares - Dos Coronas a Mi Madre (En Vivo Desde Houston, Tx)-jtPA1fi1vxA.mp4?raw=true"
         },
         {
             "id": "vdxF48KfYNA",
@@ -100,6 +93,13 @@
             "url": "https://github.com/circuitalmynds/music_f1/blob/main/videos/Dos Coronas a Mi Madre En Vivo Desde Houston, Tx  -  Los Cadetes de Linares-jtPA1fi1vxA.mp4?raw=true"
         },
         {
+            "id": "EtYre1GABao",
+            "name": "Orchestral Manoeuvres In The Dark - Secret [EtYre1GABao].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f1/videos/Orchestral Manoeuvres In The Dark - Secret [EtYre1GABao].mp4",
+            "size": 8.747042,
+            "url": "https://github.com/circuitalmynds/music_f1/blob/main/videos/Orchestral Manoeuvres In The Dark - Secret [EtYre1GABao].mp4?raw=true"
+        },
+        {
             "id": "MMulNenptgI",
             "name": "Cuando Tú Te Vayas-MMulNenptgI.mp4",
             "path": "/home/alanmatzumiya/Videos/container/f1/videos/Cuando Tú Te Vayas-MMulNenptgI.mp4",
@@ -133,13 +133,6 @@
             "path": "/home/alanmatzumiya/Videos/container/f1/videos/Extremoduro - So Payaso - Bely Basarte versión acústica-iumBobiS3ew.mp4",
             "size": 11.087562,
             "url": "https://github.com/circuitalmynds/music_f1/blob/main/videos/Extremoduro - So Payaso - Bely Basarte versión acústica-iumBobiS3ew.mp4?raw=true"
-        },
-        {
-            "id": "m0LNZwqW3ws",
-            "name": "Playas Negras-m0LNZwqW3ws.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/f1/videos/Playas Negras-m0LNZwqW3ws.mp4",
-            "size": 3.358977,
-            "url": "https://github.com/circuitalmynds/music_f1/blob/main/videos/Playas Negras-m0LNZwqW3ws.mp4?raw=true"
         },
         {
             "id": "YmEXXvjroqs",
@@ -247,20 +240,6 @@
             "url": "https://github.com/circuitalmynds/music_f1/blob/main/videos/At The Drive-In - 01. Arcarsenal-f-ecr6e_Ksg.mp4?raw=true"
         },
         {
-            "id": "ms_LIEz8j_A",
-            "name": "pobre de mi corazonconjunto primavera-ms_LIEz8j_A.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/f1/videos/pobre de mi corazonconjunto primavera-ms_LIEz8j_A.mp4",
-            "size": 8.946194,
-            "url": "https://github.com/circuitalmynds/music_f1/blob/main/videos/pobre de mi corazonconjunto primavera-ms_LIEz8j_A.mp4?raw=true"
-        },
-        {
-            "id": "mlYJf6CJXV8",
-            "name": "Laid Back - White Horse [Official Music Video]-mlYJf6CJXV8.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/f1/videos/Laid Back - White Horse [Official Music Video]-mlYJf6CJXV8.mp4",
-            "size": 10.355205,
-            "url": "https://github.com/circuitalmynds/music_f1/blob/main/videos/Laid Back - White Horse [Official Music Video]-mlYJf6CJXV8.mp4?raw=true"
-        },
-        {
             "id": "nB3TsP99Mbk",
             "name": "Aldo Trujillo _ La Situación-nB3TsP99Mbk.mp4",
             "path": "/home/alanmatzumiya/Videos/container/f1/videos/Aldo Trujillo _ La Situación-nB3TsP99Mbk.mp4",
@@ -317,13 +296,6 @@
             "url": "https://github.com/circuitalmynds/music_f1/blob/main/videos/Hazlo Tu Mismx - Los gritos de mi pueblo (Full album) 2016-XotOdqPcZlY.mp4?raw=true"
         },
         {
-            "id": "EtYre1GABao",
-            "name": "Orchestral Manoeuvres In The Dark - Secret-EtYre1GABao.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/f1/videos/Orchestral Manoeuvres In The Dark - Secret-EtYre1GABao.mp4",
-            "size": 14.180484,
-            "url": "https://github.com/circuitalmynds/music_f1/blob/main/videos/Orchestral Manoeuvres In The Dark - Secret-EtYre1GABao.mp4?raw=true"
-        },
-        {
             "id": "QuqM1GyLWh8",
             "name": "CASTLEBEAT - VHS (Full Album)-QuqM1GyLWh8.mp4",
             "path": "/home/alanmatzumiya/Videos/container/f1/videos/CASTLEBEAT - VHS (Full Album)-QuqM1GyLWh8.mp4",
@@ -357,13 +329,6 @@
             "path": "/home/alanmatzumiya/Videos/container/f1/videos/House of The Rising Sun - The Doors-CJ1oZVGmTr0.mp4",
             "size": 8.454312999999999,
             "url": "https://github.com/circuitalmynds/music_f1/blob/main/videos/House of The Rising Sun - The Doors-CJ1oZVGmTr0.mp4?raw=true"
-        },
-        {
-            "id": "fq2dWTBVZD4",
-            "name": "The Sugarcubes - Deus-fq2dWTBVZD4.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/f1/videos/The Sugarcubes - Deus-fq2dWTBVZD4.mp4",
-            "size": 10.186981,
-            "url": "https://github.com/circuitalmynds/music_f1/blob/main/videos/The Sugarcubes - Deus-fq2dWTBVZD4.mp4?raw=true"
         },
         {
             "id": "nFD_3lqg3xk",
@@ -450,25 +415,11 @@
             "url": "https://github.com/circuitalmynds/music_f1/blob/main/videos/Filme moi-NRqbMMTxmfw.mp4?raw=true"
         },
         {
-            "id": "4FDHdWYWTzY",
-            "name": "FNAF Song - 'I Got No Time' by The Living Tombstone (CG5 Remix)-4FDHdWYWTzY.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/f1/videos/FNAF Song - 'I Got No Time' by The Living Tombstone (CG5 Remix)-4FDHdWYWTzY.mp4",
-            "size": 13.919891999999999,
-            "url": "https://github.com/circuitalmynds/music_f1/blob/main/videos/FNAF Song - 'I Got No Time' by The Living Tombstone (CG5 Remix)-4FDHdWYWTzY.mp4?raw=true"
-        },
-        {
             "id": "pnoGuHRFapQ",
             "name": "PESADO  Dejame Amarte (VIDEO OFICIAL)-pnoGuHRFapQ.mp4",
             "path": "/home/alanmatzumiya/Videos/container/f1/videos/PESADO  Dejame Amarte (VIDEO OFICIAL)-pnoGuHRFapQ.mp4",
             "size": 8.717397,
             "url": "https://github.com/circuitalmynds/music_f1/blob/main/videos/PESADO  Dejame Amarte (VIDEO OFICIAL)-pnoGuHRFapQ.mp4?raw=true"
-        },
-        {
-            "id": "r6bxSrcnQlY",
-            "name": "Luna y sol-r6bxSrcnQlY.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/f1/videos/Luna y sol-r6bxSrcnQlY.mp4",
-            "size": 7.901297,
-            "url": "https://github.com/circuitalmynds/music_f1/blob/main/videos/Luna y sol-r6bxSrcnQlY.mp4?raw=true"
         },
         {
             "id": "V1sdR8WmEMU",
@@ -499,13 +450,6 @@
             "url": "https://github.com/circuitalmynds/music_f1/blob/main/videos/Soñé... y lucho por ella - Asto Pituak-Du2J451gTXU.mp4?raw=true"
         },
         {
-            "id": "xJ-FB9SzB5w",
-            "name": "Hola Como Estas - Los Hermanos Vega-xJ-FB9SzB5w.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/f1/videos/Hola Como Estas - Los Hermanos Vega-xJ-FB9SzB5w.mp4",
-            "size": 7.634581,
-            "url": "https://github.com/circuitalmynds/music_f1/blob/main/videos/Hola Como Estas - Los Hermanos Vega-xJ-FB9SzB5w.mp4?raw=true"
-        },
-        {
             "id": "4r77UluCbuE",
             "name": "piperrak-basta ya!-4r77UluCbuE.mp4",
             "path": "/home/alanmatzumiya/Videos/container/f1/videos/piperrak-basta ya!-4r77UluCbuE.mp4",
@@ -525,13 +469,6 @@
             "path": "/home/alanmatzumiya/Videos/container/f1/videos/Sad Statue-8IH1JFoiGqU.mp4",
             "size": 3.271557,
             "url": "https://github.com/circuitalmynds/music_f1/blob/main/videos/Sad Statue-8IH1JFoiGqU.mp4?raw=true"
-        },
-        {
-            "id": "Qdj02dW78kk",
-            "name": "''EL PASADISCOS'' Diego Verdaguer-Qdj02dW78kk.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/f1/videos/''EL PASADISCOS'' Diego Verdaguer-Qdj02dW78kk.mp4",
-            "size": 8.037139,
-            "url": "https://github.com/circuitalmynds/music_f1/blob/main/videos/''EL PASADISCOS'' Diego Verdaguer-Qdj02dW78kk.mp4?raw=true"
         },
         {
             "id": "-tzJGUks85s",
@@ -646,5 +583,5 @@
             "url": "https://github.com/circuitalmynds/music_f1/blob/main/videos/Gipsy Kings - La Dona (Dedicated to Brigitte Bardot) (Audio)-AqTTBK3WwAs.mp4?raw=true"
         }
     ],
-    "total_size": 963.564785
+    "total_size": 876.31807
 }
