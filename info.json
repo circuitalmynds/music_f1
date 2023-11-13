@@ -219,6 +219,13 @@
             "url": "https://github.com/circuitalmynds/music_f1/raw/main/videos/Albert Collins - Rory Gallagher - Boogie Jam (Live Audio)-2v-T8yxXGNk.mp4"
         },
         {
+            "id": "NRqbMMTxmfw",
+            "name": "Alice et Moi - Filme Moi (Clip Officiel) [NRqbMMTxmfw].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/f1/videos/Alice et Moi - Filme Moi (Clip Officiel) [NRqbMMTxmfw].mp4",
+            "size": 16.421265,
+            "url": "https://github.com/circuitalmynds/music_f1/raw/main/videos/Alice et Moi - Filme Moi (Clip Officiel) [NRqbMMTxmfw].mp4"
+        },
+        {
             "id": "qlExfXKWShE",
             "name": "Pappo\u00b4s Blues - Peque\u00f1a Ala.wmv-qlExfXKWShE.mp4",
             "path": "/home/alanmatzumiya/Videos/container/f1/videos/Pappo\u00b4s Blues - Peque\u00f1a Ala.wmv-qlExfXKWShE.mp4",
@@ -597,5 +604,5 @@
             "url": "https://github.com/circuitalmynds/music_f1/raw/main/videos/Gipsy Kings - La Dona (Dedicated to Brigitte Bardot) (Audio)-AqTTBK3WwAs.mp4"
         }
     ],
-    "total_size": 887.311319
+    "total_size": 903.7325840000001
 }
